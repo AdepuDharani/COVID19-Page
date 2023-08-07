@@ -1,0 +1,94 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.container {
+    background-color: #ffffff;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #0967d219;
+    padding: 13px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.heading {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #323f4b;
+}
+
+.btn {
+    font-size: 12px;
+    border-radius: 8px;
+}
+
+.img1 {
+    margin-bottom: 15px;
+}
+
+.test-card {
+    background-color: #0967d219;
+    border-radius: 12px;
+    padding: 15px;
+}
+
+.img2 {
+    margin: 10px;
+    width: 45px;
+    height: 45px;
+}
+
+.card-desc-container {
+    margin-left: 10px;
+}
+
+.heading1 {
+    font-family: "Roboto";
+    font-size: 17px;
+    font-weight: 500;
+    color: #323f4b;
+}
+
+.text-desc {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #707070;
+}
+
+.heading2 {
+    font-family: "Roboto";
+    font-size: 20px;
+    color: #323f4b;
+    padding-top: 18px;
+    font-weight: 500;
+}
+
+.color-card {
+    font-family: "Roboto";
+    font-size: 14px;
+    font-weight: 500;
+    border-radius: 10px;
+    color: #ffffff;
+    padding: 12px;
+    margin-right: 20px;
+    margin-top: 15px;
+    padding-bottom: 0px;
+}
+
+.green-card {
+    background-color: #3ebd93;
+}
+
+.pink-card {
+    background-color: #e668a7;
+}
+
+.purple-card {
+    background-color: #a386fc;
+}
+
+.video-container {
+    background-color: #e12d3919;
+    border-radius: 12px;
+    padding: 15px;
+    margin-top: 12px;
+}
